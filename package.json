@@ -1,0 +1,26 @@
+{
+  "name": "ai-safety-incident-log-service",
+  "version": "1.0.0",
+  "description": "API Task: AI Safety Incident Log Service",
+  "license": "ISC",
+  "author": "Surender Gupta",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "http-status": "^2.1.0",
+    "joi": "^17.13.3",
+    "mongoose": "^8.13.2",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

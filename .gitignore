@@ -1,0 +1,7 @@
+.env
+node_modules
+test.js
+Test.md
+Dockerfile
+ai_safety_log_api_db.incident.json
+Backend Intern Take-Home Assignment - AI Safety Startup.pdf
