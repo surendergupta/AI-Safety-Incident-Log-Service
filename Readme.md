@@ -146,6 +146,5 @@ db.incidents
 ## Design Decisions & Challenges
 
 - Validation: Used Joi for strict input validation to prevent bad data.
-- Logging: Winston logs all API calls and errors into a separate logs/ folder.
 - Error Handling: Custom ApiError class ensures structured error responses.
 - Scalability: MongoDB was chosen for flexible document storage.
