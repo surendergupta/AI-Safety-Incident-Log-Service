@@ -19,8 +19,8 @@ This is a simple RESTful API service built with Node.js, Express.js, and MongoDB
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/ai-safety-incident-log.git
-cd ai-safety-incident-log
+git clone https://github.com/surendergupta/AI-Safety-Incident-Log-Service.git
+cd AI-Safety-Incident-Log-Service
 ```
 
 ## Install Dependencies
