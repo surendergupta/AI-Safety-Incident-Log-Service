@@ -3,6 +3,10 @@
 ## Overview
 This is a simple RESTful API service built with Node.js, Express.js, and MongoDB to log and manage AI safety incidents.
 
+## Flow of the API
+
+![Backend Flow Diagram](./screenshots/backend_diagram.png)
+
 ## Features
 - Create, retrieve, and delete AI safety incidents.
 - Uses MongoDB for persistent storage.
