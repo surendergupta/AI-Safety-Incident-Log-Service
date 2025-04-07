@@ -90,6 +90,7 @@ Response:
 }
 ```
 
+![Post Incident](./screenshots/post_incident.png)
 
 ### Retrieve an incident by ID
 GET /incidents/:id
@@ -110,6 +111,7 @@ Response:
     "__v": 0
 }
 ```
+
 
 ### Delete an incident
 DELETE /incidents/:id
